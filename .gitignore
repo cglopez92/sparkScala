@@ -1,0 +1,9 @@
+.idea/
+**/.idea/**
+*/target/**
+/target/
+**/target/**
+/CalculationEngine.iml
+/dependency-reduced-pom.xml
+/pom.xml.versionsBackup
+.DS_Store
